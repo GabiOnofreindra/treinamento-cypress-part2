@@ -6,6 +6,7 @@ module.exports = defineConfig({
     defaultCommandTimeout: 10000, // 10 segundos para comandos como cy.get()
     screenshotOnRunFailure: true,
     screenshotTimeout: 70000,
+    video:true,
     setupNodeEvents(on, config) {
     },
   },
