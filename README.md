@@ -1,2 +1,2 @@
-# treinamento-cypress-Alexandro
+# treinamento-cypress
 treinamento-cypress com Alexandro
